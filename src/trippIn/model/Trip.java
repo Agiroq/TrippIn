@@ -1,4 +1,4 @@
-package tripAID.model;
+package trippIn.model;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -32,6 +32,13 @@ public class Trip {
 	}
 	
 	//metods
+	public String getDescription() {
+		return description;
+	}
+
+	public void setDescription(String description) {
+		this.description = description;
+	}
 	
 	@Override
 	public String toString() {

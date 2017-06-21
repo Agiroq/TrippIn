@@ -1,4 +1,4 @@
-package tripAID.model;
+package trippIn.model;
 
 import java.io.File;
 

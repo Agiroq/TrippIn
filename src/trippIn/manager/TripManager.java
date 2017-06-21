@@ -1,6 +1,6 @@
-package tripAID;
+package trippIn.manager;
 
-import tripAID.model.Bitacora;
+import trippIn.model.Bitacora;
 
 public class TripManager {
 	

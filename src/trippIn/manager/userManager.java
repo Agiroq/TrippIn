@@ -1,7 +1,7 @@
-package tripAID;
+package trippIn.manager;
 
-import tripAID.model.Trip;
-import tripAID.model.User;
+import trippIn.model.Trip;
+import trippIn.model.User;
 
 public class userManager {
 	private static User u = null;

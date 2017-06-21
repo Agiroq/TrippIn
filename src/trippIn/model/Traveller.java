@@ -1,18 +1,18 @@
 /**
  * 
  */
-package tripAID.model;
+package trippIn.model;
 
 /**
  * @author albert
  *
  */
-public class Tripper {
+public class Traveller {
 	private String name;
 	
 	
 
-	public Tripper(String name) {
+	public Traveller(String name) {
 		super();
 		this.name = name;
 	}
